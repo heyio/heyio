@@ -4,7 +4,7 @@
 DEFINE('DATABASE_USER', 'root');
 DEFINE('DATABASE_PASSWORD', 'root');
 DEFINE('DATABASE_HOST', 'localhost');
-DEFINE('DATABASE_NAME', 'flughafentaxi');
+DEFINE('DATABASE_NAME', 'heyio');
 /*Default time zone ,to be able to send mail */
 date_default_timezone_set('UTC');
 
@@ -13,11 +13,11 @@ ini_set('SMTP', "mail.myt.mu"); // Overide The Default Php.ini settings for send
 
 
 //This is the address that will appear coming from ( Sender )
-define('EMAIL', 'office@das-flughafentaxi-wien.at');
-define('FROM', 'Das Flughafentaxi Wien');
+define('EMAIL', 'office@heyio.at');
+define('FROM', 'heyio');
 
 /*Define the root url where the script will be found such as http://website.com or http://website.com/Folder/ */
-DEFINE('WEBSITE_URL', 'https://www.das-flughafentaxi-wien.at/');
+DEFINE('WEBSITE_URL', 'https://www.heyio.at/');
 
 
 // Make the connection:
