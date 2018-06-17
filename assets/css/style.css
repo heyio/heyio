@@ -1,0 +1,38 @@
+/*
+  Style URL: https://heyio.at/assets/css/style.css
+  Author: Grujin
+  Author URI: https://heyio.at
+  Description: Custom Theme for "heyio" Web Agency
+  Version: 1.0.0
+*/
+
+/**********************************************
+1.  DOCUMENT
+     1.1 body
+     1.2 fonts
+     1.3 fonts colors
+     1.4 fonts sizes
+     1.5 input fileds and forms
+     1.6 messages: error, succesfull etc.
+     1.7 general
+2.  NAV BAR
+     2.1 logo
+     2.2 navigation
+     2.3 vertical navigation
+3.  HEADER
+4.  WELCOME TEXT
+5.  REFERENCE
+6.  ABOUT
+7.  ROADMAP
+8.  FOOTER
+9.  ANOTHER PAGES
+10. MAIL BODY
+11. 404 PAGE
+**********************************************/
+
+/* 1. DOCUMENT */
+/* 1.1 body */
+body{
+    width: 100%;
+    overflow-x: hidden;
+}
